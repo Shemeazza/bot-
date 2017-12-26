@@ -1,0 +1,10 @@
+{
+  "name": "Dimytr#7946",
+  "description": "Rusek z powo�ania",
+  "main": "bot.js",
+  "author": "Shemi",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
